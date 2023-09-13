@@ -1,0 +1,43 @@
+{
+    "experiences": [
+        {
+            "title": "Frontend Developer ",
+            "subtitle": "Timelapse Agency",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed an e-commerce web application that facilitates online buying and selling of products. ",
+                "It aims to provide a user-friendly and secure platform for customers to browse, search, and purchase items. Using Next Js .Gaining a valuable experience in Static Site Generation (SSG), Server Side Rendering (SSR) , Incremental Static Regeneration (ISR), Client Side Rendering and Search engine optimization."
+            ],
+            "dateText": "07/2023 – Present"
+        },
+        {
+            "title": "Frontend Developer",
+            "subtitle": "Next Consult",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a web application to help individuals or organizations manage their social media presence across multiple platforms such as Facebook, Twitter, Instagram, LinkedIn, and more.",
+                "That every user can login with his social media account and planify a post and publish it to any social media account that logged in, gaining valuable experience in API integration"
+            ],
+            "dateText": "01/2022 – 06/2022"
+        },
+        {
+            "title": "Android Developer",
+            "subtitle": "Octopus Plus",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a mobile application designed to help individuals or organizations to manage their expenses.",
+                " The application typically involves creating a centralized platform that allows users to track their expenses, categorize them .Using Android Studio and implemented the backend with Firebase. Collaborated with a team to deliver a high-quality product on time, gaining valuable experience in mobile app development"
+            ],
+            "dateText": "01/2021 – 02/2021"
+        },
+        {
+            "title": "Network Developer",
+            "subtitle": "The Military Hospital of Tunis",
+            "workType": "Internship",
+            "workDescription": [
+                "Learned and practiced the process of connecting two or more computer systems together to allow them to communicate and share resources. And learned a variety of technologies and protocols, such as wired and wireless connections,Ethernet, TCP/IP, and Wi-Fi"
+            ],
+            "dateText": "01/2019 – 02/2019"
+        }
+    ]
+}
