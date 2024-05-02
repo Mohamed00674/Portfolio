@@ -1,18 +1,20 @@
 {
     "education":[
-        {
-            "title": "Sep 2018 - Jun 2022",
-            "cardTitle": "Bachelor's Degree , Information Technology",
-            "cardSubtitle":"Higher Institute of Technological Studies of Rades",            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
-        },
-        {
-            "title": "Jun 2018",
-            "cardTitle": "High School Diploma,Economics",
-            "cardSubtitle":"Rue El Attarine Ariana",
-            "src": "images/education/lorem-ipsum.png"
-
+      {
+        "title": "Sep 2018 - Jun 2022",
+        "cardTitle": "Bachelor's Degree , Information Technology",
+        "cardSubtitle": "Higher Institute of Technological Studies of Rades",
+        "icon": {
+          "src": "images/education/lorem-ipsum.png"
         }
+      },
+      {
+        "title": "Sep 2018 - Jun 2022",
+        "cardTitle": "Bachelor's Degree , Information Technology",
+        "cardSubtitle": "Higher Institute of Technological Studies of Rades",
+        "icon": {
+          "src": "images/education/lorem-ipsum.png"
+        }
+      }
     ]
 }
