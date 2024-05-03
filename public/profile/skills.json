@@ -19,7 +19,7 @@
                 },
                 {
                     "icon": "images/skills/mongo-db.png",
-                    "title": "Python"
+                    "title": "MongoDB"
                 },
                 {
                     "icon": "images/skills/mysql.png",
@@ -29,18 +29,22 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
+              {
+                "icon": "images/skills/vue.png",
+                "title": "Vue"
+              },
+              {
+                "icon": "images/skills/react.png",
+                "title": "React"
+              },
+              {
+                "icon": "images/skills/nodejs.png",
+                "title": "Node"
+              },
+              {
+                "icon": "images/skills/express.png",
+                "title": "Express"
+              }
             ]
         },
         {
