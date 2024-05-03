@@ -69,16 +69,16 @@
       ]
     },
     {
-      "image": "images/projects/weather.png",
+      "image": "images/projects/portfo.png",
       "title": "Weather App",
-      "bodyText": "- A web App that allows users to  check daily the weather.",
+      "bodyText": "- A Portfolio app  ",
       "links": [
         {
           "text": "GitHub",
-          "href": "https://github.com/Mohamed00674/Weather-App"
+          "href": "https://github.com/Mohamed00674/Portfolio"
         }
       ],
-      "tags": ["JavaScript", "HTML", "CSS"]
+      "tags": ["JavaScript", "React", "Styled Components", "Context API"]
     }
   ]
 }
