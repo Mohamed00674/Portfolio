@@ -3,7 +3,7 @@
     {
       "image": "images/projects/movie-app.png",
       "title": "Movie Application",
-      "bodyText": "- Developer Movie Website made in React\n -  Fully customizable and dynamic \n - Dark Mode Support",
+      "bodyText": "- Developed Movie Website made in React\n -  Fully customizable and dynamic \n - Dark Mode Support",
       "links": [
         {
           "text": "GitHub",
@@ -15,7 +15,7 @@
     {
       "image": "images/projects/restaurant.png",
       "title": "Restaurant Ordering System ",
-      "bodyText": "- A restaurant ordering system made with **Vue.js** for **Restaurant** clients. People can create a new account.\n - Added User authentication and password reset using **Node Mailer**.\n - Client can order table in the restaurant or pass an order and choose the delivery method .",
+      "bodyText": "- A restaurant ordering system made with **Vue.js** for **Restaurant** clients. People can create a new account.\n - Added User authentication and password reset using **Node Mailer**.\n - Client can make a reservation of table in the restaurant or pass an order and choose the delivery method .",
       "links": [
         {
           "text": "GitHub",
