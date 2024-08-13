@@ -55,8 +55,5 @@
   },
   "resolutions": {
     "react-error-overlay": "$react-error-overlay"
-  },
-    "overrides": {
-    "caniuse-lite": "1.0.30001632"
   }
 }
