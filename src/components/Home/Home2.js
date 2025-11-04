@@ -13,7 +13,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
+              I’m a Software Engineer with over 2 years of experience who loves transforming ideas into
               reliable, scalable products. Over time, I’ve explored several
               technologies and found my passion in building high-performance
               systems and intuitive user experiences.
@@ -23,10 +23,10 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript,Angular,Nest.js, Node.js, and TypeScript{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              with strong expertise in NestJS.
               <br />
               <br />
               My key areas of interest include developing
